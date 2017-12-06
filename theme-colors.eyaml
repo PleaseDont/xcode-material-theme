@@ -1,0 +1,143 @@
+Source:
+  Plain Text: # Variables
+    Default: EEFFFF
+    Darker: EEFFFF
+    Lighter: 90A4AE
+    Palenight: A6ACCD
+  Comments: # Comment
+    Default: 546E7A
+    Darker: 4A4A4A
+    Lighter: 90A4AE90
+    Palenight: 676E95
+  Documentation Markup: # Comment
+    Default: 546E7A
+    Darker: 4A4A4A
+    Lighter: 90A4AE90
+    Palenight: 676E95
+  Documentation Markup Keywords: # Variables
+    Default: EEFFFF
+    Darker: EEFFFF
+    Lighter: 90A4AE
+    Palenight: A6ACCD
+  Strings: # Cyan
+    Default: 89DDFF
+    Darker: 89DDFF
+    Lighter: 39ADB5
+    Palenight: 89DDFF
+  Characters: # Cyan
+    Default: 89DDFF
+    Darker: 89DDFF
+    Lighter: 39ADB5
+    Palenight: 89DDFF
+  Numbers: # Number, Constant, Function Argument, Tag Attribute, Embedded
+    Default: F78C6C
+    Darker: F78C6C
+    Lighter: F76D47
+    Palenight: F78C6C
+  Keywords: # Keyword, Storage
+    Default: C792EA
+    Darker: C792EA
+    Lighter: 7C4DFF
+    Palenight: C792EA
+  Preprocessor Statements: # Violet
+    Default: BB80B3
+    Darker: BB80B3
+    Lighter: 945EB8
+    Palenight: BB80B3
+  URLs: #textLink.foreground
+    Default: 80CBC4
+    Darker: 80CBC4
+    Lighter: 80CBC4
+    Palenight: 80CBC4
+  Attributes: # Decorators
+    Default: 82AAFF
+    Darker: 82AAFF
+    Lighter: 6182B8
+    Palenight: 82AAFF
+  Project/Other Class Names: # Class, Support
+    Default: FFCB6B
+    Darker: FFCB6B
+    Lighter: FFB62C
+    Palenight: FFCB6B
+  Project/Other Function and Method Names: # Function, Special Method
+    Default: 82AAFF
+    Darker: 82AAFF
+    Lighter: 6182B8
+    Palenight: 82AAFF
+  Project/Other Constants: # Variables constant
+    Default: F07178
+    Darker: F07178
+    Lighter: FF5370
+    Palenight: F07178
+  Project/Other Type Names: # Class, Support
+    Default: FFCB6B
+    Darker: FFCB6B
+    Lighter: FFB62C
+    Palenight: FFCB6B
+  Project/Other Instance Variables and Globals: # String, Symbols, Inherited Class, Markup Heading
+    Default: C3E88D
+    Darker: C3E88D
+    Lighter: 91B859
+    Palenight: C3E88D
+  Project/Other Preprocessor Macros: # Violet
+    Default: BB80B3
+    Darker: BB80B3
+    Lighter: 945EB8
+    Palenight: BB80B3
+Editor:
+  Background: # editor.background
+    Default: 263238
+    Darker: 212121
+    Lighter: FAFAFA
+    Palenight: 292D3E
+  Current Line: # editor.lineHighlightBackground
+    Default: 00000050
+    Darker: 00000050
+    Lighter: CCD7DA50
+    Palenight: 00000050
+  Selection: # editor.selectionHighlightBackground
+    Default: FFCC0020
+    Darker: FFCC0020
+    Lighter: 27272720
+    Palenight: FFCC0020
+  Cursor: # editorCursor.foreground
+    Default: FFCC00
+    Darker: FFCC00
+    Lighter: 272727
+    Palenight: FFCC00
+  Invisibles: # Primary Color
+    Default: 607D8B
+    Darker: 616161
+    Lighter: A7ADB0
+    Palenight: A6ACCD
+Console:
+  Background: # editor.background
+    Default: 263238
+    Darker: 212121
+    Lighter: FAFAFA
+    Palenight: 292D3E
+  Selection: # editor.selectionHighlightBackground
+    Default: FFCC0020
+    Darker: FFCC0020
+    Lighter: 27272720
+    Palenight: FFCC0020
+  Cursor: # editorCursor.foreground
+    Default: FFCC00
+    Darker: FFCC00
+    Lighter: 272727
+    Palenight: FFCC00
+  Instruction Pointer: # Primary Color
+    Default: 607D8B
+    Darker: 616161
+    Lighter: A7ADB0
+    Palenight: A6ACCD
+  Debugger Console Prompt: # Keyword, Storage
+    Default: C792EA
+    Darker: C792EA
+    Lighter: 7C4DFF
+    Palenight: C792EA
+  Debugger/Executable Console Input/Output: # Variables
+    Default: EEFFFF
+    Darker: EEFFFF
+    Lighter: 90A4AE
+    Palenight: A6ACCD
