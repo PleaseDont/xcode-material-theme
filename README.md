@@ -11,21 +11,23 @@ Copy the .xccolortheme file into the following directory:
 * Restart Xcode
 * Go to preferences and select the theme
 
+## Color Palette
+
+![Color Palette](./palette.png)
+
 ## Screenshot
 
 * Default
 ![Default](./screenshot/default.png)
 
 * Darker
-![Default](./screenshot/darker.png)
+![Darker](./screenshot/darker.png)
 
 * Lighter
-![Default](./screenshot/lighter.png)
+![Lighter](./screenshot/lighter.png)
 
 * Palenight
-![Default](./screenshot/palenight.png)
-
-## Color Palette
+![Palenight](./screenshot/palenight.png)
 
 ## License
 
