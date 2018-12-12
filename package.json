@@ -1,0 +1,30 @@
+{
+  "name": "xcode-material-theme",
+  "version": "2.6.2",
+  "description": "Material Theme for Xcode",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf ./xcode-themes && mkdir ./xcode-themes && node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PleaseDont/xcode-material-theme.git"
+  },
+  "keywords": [
+    "Xcode",
+    "Material",
+    "Theme"
+  ],
+  "author": "Vincent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PleaseDont/xcode-material-theme/issues"
+  },
+  "homepage": "https://github.com/PleaseDont/xcode-material-theme#readme",
+  "devDependencies": {
+    "float": "^1.0.2",
+    "hex-and-rgba": "^1.3.2",
+    "jsonfile": "^5.0.0",
+    "mustache": "^3.0.1"
+  }
+}
